@@ -1,0 +1,44 @@
+body{
+  background-image: url("back1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.link-box{
+  text-align: right;
+}
+
+.link{
+  font-size: 20px;
+  color: white;
+  margin-left: 10px;
+}
+
+.icon{
+  font-size: 25px;
+  color: yellow;
+  margin-left: 10px;
+}
+
+a:visited{
+  color: white;
+}
+
+.logo{
+  width: 400px;
+  margin-left: 550px;
+  margin-top: 80px;
+}
+
+.barra{
+  width: 500px;
+  margin-left: 500px;
+  font-size: 20px;
+}
+
+footer{
+  text-align: center;
+  color: lightgrey;
+  margin-top: 20px;
+  font-size: 20px;
+}
